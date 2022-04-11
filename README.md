@@ -5,10 +5,10 @@ Whitelist Bypass Permission
 
 Allow players to bypass the whitelist if they have a given permission. It only requires Vault for permission compatibility.
 
-## Permission:
+### Permission:
 whitelist.bypass
 
-## Required plugins:
+### Required plugins:
 Vault
 
 There will be no config or folder generated. Install the plugin and give your players the permission.
