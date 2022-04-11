@@ -1,0 +1,7 @@
+name: WhitelistBypass
+version: '${project.version}'
+main: com.gelevla.whitelistbypass.WhitelistBypass
+api-version: 1.18
+authors: [ GeleVla ]
+description: Whitelist Bypass Permission
+depend: [Vault]
