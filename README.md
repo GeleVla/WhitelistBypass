@@ -1,4 +1,4 @@
-[WhitelistBypass Banner](https://i.imgur.com/nRc5fM9.png)
+![WhitelistBypass Banner](https://i.imgur.com/nRc5fM9.png)
 
 # WhitelistBypass
 Whitelist Bypass Permission
